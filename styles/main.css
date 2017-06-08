@@ -1,0 +1,43 @@
+/* * {
+    border: 1px solid red;
+} */
+
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(242, 246, 252);
+}
+
+body {
+    width: 600px;
+    margin: 20px auto;
+    background-color: #ffdeaf;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(242, 246, 252);
+    text-shadow: 2px 2px 1px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: .5px;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.advice {
+    font-size: 6em;
+    text-align: center;
+}
